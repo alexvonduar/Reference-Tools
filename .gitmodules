@@ -22,3 +22,12 @@
 [submodule "yuv-file/yuv-viewer"]
 	path = yuv-file/yuv-viewer
 	url = https://github.com/figgis/yuv-viewer.git
+[submodule "android/grafika"]
+	path = android/grafika
+	url = https://github.com/google/grafika.git
+[submodule "android/FFmpegTest"]
+	path = android/FFmpegTest
+	url = https://github.com/OnlyInAmerica/FFmpegTest.git
+[submodule "android/MediaCodecTest"]
+	path = android/MediaCodecTest
+	url = https://github.com/MorihiroSoft/Android_MediaCodecTest.git
