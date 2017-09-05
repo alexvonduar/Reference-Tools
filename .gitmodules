@@ -13,3 +13,12 @@
 [submodule "rawspeed"]
 	path = raw-file/rawspeed
 	url = https://github.com/darktable-org/rawspeed.git
+[submodule "yuv-file/YUView"]
+	path = yuv-file/YUView
+	url = https://github.com/IENT/YUView.git
+[submodule "yuv-file/pyuv"]
+	path = yuv-file/pyuv
+	url = https://github.com/saghul/pyuv.git
+[submodule "yuv-file/yuv-viewer"]
+	path = yuv-file/yuv-viewer
+	url = https://github.com/figgis/yuv-viewer.git
